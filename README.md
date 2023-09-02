@@ -39,7 +39,7 @@ Feel free to explore my GitHub repositories and join me on my journey of continu
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angularjs" alt="Angularjs" width="52" height="52"/>&nbsp; -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="52" height="52"/> -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="52" height="52"/> -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="52" height="52"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="52" height="52"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="52" height="52"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="52" height="52"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="52" height="52"/>
@@ -79,7 +79,7 @@ Feel free to explore my GitHub repositories and join me on my journey of continu
 
 ### :chart_with_downwards_trend: Data Science/Machine Learning:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="52" height="52"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="52" height="52"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="52" height="52"/>
 <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" title="Matplotlib" alt="Matplotlib" width="52" height="52"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" title="Sklearn" alt="Sklearn" width="52" height="52"/>
