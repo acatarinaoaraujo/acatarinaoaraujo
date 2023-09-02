@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/tchvu3/tchvu3/blob/master/programmer-animation.gif?raw=true" width="350"/></p>
+<p align="center"><img src="https://media4.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" width="350"/></p>
 <h1 align="center">Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
