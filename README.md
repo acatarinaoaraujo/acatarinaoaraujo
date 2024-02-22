@@ -17,10 +17,6 @@ Feel free to explore my GitHub repositories and join me on my journey of continu
 
 ---
 
-## Skills:
-
-### 🛠 Software Engineering
-
 #### Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="22" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="32" height="32"/>
@@ -32,9 +28,9 @@ Feel free to explore my GitHub repositories and join me on my journey of continu
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="32" height="32"/>
 
 ### Web Dev
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="52" height="52"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="52" height="52"/>
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" title="NextJS" alt="NextJS" width="52" height="32"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="52" height="32"/>
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" title="NextJS" alt="NextJS" width="32" height="32"/>
 <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" title="Boostrap" alt="Boostrap" width="32" height="32"/>
 <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" title="Tailwind Css" width="32" height="32"/>
 <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" title="MUI" width="32" height="32"/>
@@ -65,9 +61,6 @@ Feel free to explore my GitHub repositories and join me on my journey of continu
 <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" title="Microsoft" width="32" height="32"/>
 <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" title="Amazon" width="32" height="32"/> -->
 
-
-
-
 #### Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="52" height="52"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="52" height="52"/>
@@ -76,7 +69,7 @@ Feel free to explore my GitHub repositories and join me on my journey of continu
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="52" height="52"/> -->
 ---
 
-### :chart_with_downwards_trend: Data Science/Machine Learning:
+#### Data Science/Machine Learning:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="32" height="32"/>
