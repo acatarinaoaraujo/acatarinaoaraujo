@@ -12,9 +12,9 @@ I'm Ana, an aspiring software engineer <img src="https://media.giphy.com/media/W
 
 - 🔭 I am currently engaged in thesis work that involves the classification of software vulnerability descriptions from the National Vulnerability Database (NVD). My approach involves fine-tuning transformer-based models to accurately categorize these descriptions into several key areas: Attack Theater, Mitigation Strategies, Context, Impact Method, and Logical Impact.
 
-  Feel free to explore my GitHub repositories and join me on my journey of continuous learning and growth in the world of software development. If you have any questions or would like to collaborate on exciting projects, don't hesitate to reach out. Let's connect and build amazing things together! 💻🌟
+- Feel free to explore my GitHub repositories and join me on my journey of continuous learning and growth in the world of software development. If you have any questions or would like to collaborate on exciting projects, don't hesitate to reach out. Let's connect and build amazing things together! 💻🌟
   
-- 📫 Feel free to contact me via: [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:acoa_@hotmail.com)
+- 📫 Contact me via: [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:acoa_@hotmail.com)
 
 ---
 
@@ -22,7 +22,7 @@ I'm Ana, an aspiring software engineer <img src="https://media.giphy.com/media/W
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="22" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="32" height="32"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="32" height="32"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="32" height="22"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="32" height="32"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="32" height="32"/>
 <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" title="C++" alt="C++" width="32" height="32"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="32" height="32"/>
