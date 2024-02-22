@@ -8,11 +8,12 @@
 
 ## 👨‍💻 About Me:
 
-I'm Ana, an aspiring software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a deep passion for expanding my technical horizons and embracing challenges outside my comfort zone. 🚀
+I'm Ana, an aspiring software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a deep passion for expanding my technical skills and embracing challenges outside my comfort zone. My areas of interest include Software Engineering, as well as the application of Deep Learning techniques in Natural Language Processing and Computer Vision. 🚀
 
-Feel free to explore my GitHub repositories and join me on my journey of continuous learning and growth in the world of software development. If you have any questions or would like to collaborate on exciting projects, don't hesitate to reach out. Let's connect and build amazing things together! 💻🌟
+- 🔭 I am currently engaged in thesis work that involves the classification of software vulnerability descriptions from the National Vulnerability Database (NVD). My approach involves fine-tuning transformer-based models to accurately categorize these descriptions into several key areas: Attack Theater, Mitigation Strategies, Context, Impact Method, and Logical Impact.
 
-- 🔭 I'm presently working on frontend and backend web projects, while also exploring mobile development and deep learning, particularly focusing on NLP and CNNs.
+  Feel free to explore my GitHub repositories and join me on my journey of continuous learning and growth in the world of software development. If you have any questions or would like to collaborate on exciting projects, don't hesitate to reach out. Let's connect and build amazing things together! 💻🌟
+  
 - 📫 Feel free to contact me via: [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:acoa_@hotmail.com)
 
 ---
