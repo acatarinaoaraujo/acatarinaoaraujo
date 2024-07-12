@@ -14,10 +14,11 @@ I'm Ana, an aspiring software engineer <img src="https://media.giphy.com/media/W
 
 - Feel free to explore my GitHub repositories and join me on my journey of continuous learning and growth in the world of software development. If you have any questions or would like to collaborate on exciting projects, don't hesitate to reach out. Let's connect and build amazing things together! 💻🌟
   
-- 📫 Contact me via: [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:acoa_@hotmail.com)
+- 📫 Contact me via: [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:ancoaraujo@gmail.com)
 
 ---
 
+<!-- 
 #### Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="22" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="32" height="32"/>
@@ -49,12 +50,12 @@ I'm Ana, an aspiring software engineer <img src="https://media.giphy.com/media/W
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="52" height="52"/> -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="Socketio" alt="Socketio" width="52" height="52"/> -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" alt="Jquery" width="52" height="52"/> -->
-
+<!--
 ### Datases
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="52" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="32" height="32"/>
 <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" title="MySQL" width="32" height="32"/>
-<img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="32" height="32"/>
+<img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="32" height="32"/> 
 
 <!-- 
 ### Cloud
@@ -62,16 +63,17 @@ I'm Ana, an aspiring software engineer <img src="https://media.giphy.com/media/W
 <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" title="Microsoft" width="32" height="32"/>
 <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" title="Amazon" width="32" height="32"/> -->
 
+<!--
 #### Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="52" height="52"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="52" height="52"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="52" height="52"/>
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="52" height="52"/> -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="52" height="52"/> -->
----
 
-#### Data Science/Machine Learning:
 
+<!--#### Data Science/Machine Learning:
+<!--
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="32" height="32"/>
 <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" title="Matplotlib" alt="Matplotlib" width="32" height="32"/>
@@ -81,8 +83,6 @@ I'm Ana, an aspiring software engineer <img src="https://media.giphy.com/media/W
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="32" height="32"/>
 
 <!-- <img src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" title="Databricks" width="32" height="32"/> -->
-
----
 
 ### 🔥 My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=acatarinaoaraujo&theme=dark&background=000000)](https://git.io/streak-stats)
