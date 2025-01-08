@@ -4,6 +4,3 @@ I'm Ana, an aspiring software engineer <img src="https://media.giphy.com/media/W
 
 - 📫 Contact me via: [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:ancoaraujo@gmail.com)
 
-
-### 🔥 My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=acatarinaoaraujo&theme=dark&background=000000)](https://git.io/streak-stats)
