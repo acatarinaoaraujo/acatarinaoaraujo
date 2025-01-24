@@ -15,17 +15,10 @@
 ## 🚀 Key Highlights
 
 - ### **Projects**: 
-- #### Deep Learning for Coffee Plant Pathology 🌿
-- Developed a model to classify coffee leaf diseases with 87% accuracy using ResNet50 and CNNs.
-
-#### Receipt Manager 📑
-- My team and I created a receipt tracking app using OCR and GPT-4 to help users track expenses and improve accuracy by 50%.
-
-#### Marine Debris Management System 🌊
-- My team and I built a system for reporting and tracking marine debris with integrated chatbot and hotline for faster resolutions.
-
-#### DOE Legislative Tracker 📜
-- My team and I developed a legislative tracking system with role-based access and real-time event tracking.
+- Deep Learning for Coffee Plant Pathology 🌿: Developed a model to classify coffee leaf diseases with 87% accuracy using ResNet50 and CNNs.
+- Receipt Manager 📑: My team and I created a receipt tracking app using OCR and GPT-4 to help users track expenses and improve accuracy by 50%.
+- Marine Debris Management System 🌊: My team and I built a system for reporting and tracking marine debris with integrated chatbot and hotline for faster resolutions.
+- DOE Legislative Tracker 📜: My team and I developed a legislative tracking system with role-based access and real-time event tracking.
   
 - ### **Research**:
   - Explored software vulnerabilities 🔍 through large language models and developer surveys to improve security practices.
