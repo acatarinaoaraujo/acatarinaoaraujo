@@ -1,15 +1,16 @@
 ## 👨‍💻 About Me
 
-- I'm Ana, a passionate aspiring software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a background in full-stack development and machine learning.
+- I'm Ana, an aspiring software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a background in full-stack development and machine learning.
 - My journey began at the University of Hawai'i at Manōa 🎓, where I built a strong foundation in computer science.
-- During my Masters I was able to expanded expertise in mobile app security research 🔐, NLP 🤖, machine learning ⚙️, and data visualization 📊.
-- Open to relocating and excited to join a team that values collaboration 🤝 and continuous learning 📚.
+- During my Masters I was able to expanded expertise in mobile app security research, NLP, machine learning, and data visualization 📊.
 
 ---
 
 - Portfolio: https://ancoaraujo.vercel.app/
 - 📫 Contact me via: [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:ancoaraujo@gmail.com)
-  
+
+
+<!---
 ---
 
 ## 🚀 Key Highlights
@@ -29,4 +30,5 @@
   - First place in a cybersecurity internship project at World Wide Technology 💼
 
 
+-->
 
