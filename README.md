@@ -4,8 +4,6 @@
 - My journey began at the University of Hawai'i at Manōa 🎓, where I built a strong foundation in computer science.
 - During my Masters I was able to expanded expertise in mobile app security research, NLP, machine learning, and data visualization 📊.
 
-- 
-
 ---
 
 - Portfolio: https://ancoaraujo.vercel.app/
