@@ -4,6 +4,8 @@
 - My journey began at the University of Hawai'i at Manōa 🎓, where I built a strong foundation in computer science.
 - During my Masters I was able to expanded expertise in mobile app security research, NLP, machine learning, and data visualization 📊.
 
+- 
+
 ---
 
 - Portfolio: https://ancoaraujo.vercel.app/
@@ -14,6 +16,8 @@
 ---
 
 ## 🚀 Key Highlights
+
+My background includes projects using NLP and Python for security analysis, and I’ve worked with ETL pipelines, SQL, and cloud tools. I’ve also contributed to published research and built applications that required rigorous data processing and clean design.
 
 - ### **Projects**: 
   - Deep Learning for Coffee Plant Pathology 🌿: Developed a model to classify coffee leaf diseases with 87% accuracy using ResNet50 and CNNs.
