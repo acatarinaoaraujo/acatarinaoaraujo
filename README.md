@@ -1,5 +1,7 @@
 Hi, there. ✋🏼
+
 I'm Ana, an aspiring software engineer with a background in **full-stack development** and **machine learning**.
+
 My journey began at the University of Hawai'i at Manōa, where I built a strong foundation in computer science. During my Masters I was able to expanded expertise in mobile app security research, NLP, LLMs, and data visualization.
 
 <p align="center">
