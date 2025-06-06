@@ -1,8 +1,7 @@
-## 👨‍💻 About Me
+## About Me
 
-- I'm Ana, an aspiring software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a background in full-stack development and machine learning.
-- My journey began at the University of Hawai'i at Manōa 🎓, where I built a strong foundation in computer science.
-- During my Masters I was able to expanded expertise in mobile app security research, NLP, machine learning, and data visualization 📊.
+- I'm Ana <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , an aspiring software engineer with a background in full-stack development and machine learning.
+- My journey began at the University of Hawai'i at Manōa, where I built a strong foundation in computer science and development. During my Masters I was able to expanded expertise in mobile app security research, NLP, LLMs, and data visualization.
 
 ---
 
