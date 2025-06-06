@@ -1,7 +1,7 @@
 ## About Me
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/34/d8/5d/34d85dfe1d4d4d4d82edb03c007bbeb5.gif" alt="funny gif" />
+  <img src="https://i.pinimg.com/originals/34/d8/5d/34d85dfe1d4d4d4d82edb03c007bbeb5.gif" alt="funny gif" width="270" />
 </p>
 
 
